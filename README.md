@@ -1,17 +1,17 @@
 # 杜彥佑 (Alex)
-<ul>
-  <li>Birthday： 1994/11/10</li>
+ <ul>
+   <li>Birthday： 1994/11/10</li>
    <li>Education： 華梵大學-中國文學學系</li>
    <li>Location： Changhua</li>
    <li>E-Mail：qwer898410@gmail.com</li>
    <li>Personal Website： https://yah5252.github.io/-Personal-website/</li>
-</ul>
+ </ul>
 
 # 技能清單
 <h4>前端</h4>
 <ul>
-  <li>RWD 規劃網頁，不倚賴 CSS Framework 進行 RWD 客製化</li>
-  <li>使用sass管理css</li>
+   <li>RWD 規劃網頁，不倚賴 CSS Framework 進行 RWD 客製化</li>
+   <li>使用sass管理css</li>
    <li>jQuery 設計簡易網頁動畫效果</li>
    <li>JSON/Ajax 透過 Open Data 串接資料應用</li>
    <li>Vue框架使用</li>
