@@ -14,7 +14,7 @@
    <li>使用sass管理css</li>
    <li>jQuery 設計簡易網頁動畫效果</li>
    <li>JSON/Ajax 透過 Open Data 串接資料應用</li>
-   <li>Vue框架使用</li>
+   <li>Vue框架使用-Vue指令、Vue-component</li>
 </ul>
 
 <h4>後端Node.js</h4>
