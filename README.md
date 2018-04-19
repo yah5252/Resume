@@ -10,7 +10,8 @@
 # 技能清單
 <h4>前端</h4>
 <ul>
-  <li>Sass + RWD 規劃網頁，不倚賴 CSS Framework 進行 RWD 客製化</li>
+  <li>RWD 規劃網頁，不倚賴 CSS Framework 進行 RWD 客製化</li>
+  <li>使用sass管理css</li>
    <li>jQuery 設計簡易網頁動畫效果</li>
    <li>JSON/Ajax 透過 Open Data 串接資料應用</li>
    <li>Vue框架使用</li>
