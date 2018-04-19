@@ -11,10 +11,9 @@
 <h4>前端</h4>
 <ul>
   <li>Sass + RWD 規劃網頁，不倚賴 CSS Framework 進行 RWD 客製化</li>
-   <li>jQuery 設計網頁動畫效果，了解如何使用第三方套件</li>
+   <li>jQuery 設計簡易網頁動畫效果</li>
    <li>JSON/Ajax 透過 Open Data 串接資料應用</li>
    <li>Vue框架使用</li>
-   <li>Css Flex</li>
 </ul>
 
 <h4>後端Node.js</h4>
@@ -33,7 +32,7 @@
 # 作品
 <h4>前端</h4>
 <ul>
-  <li>六角西餐廳(RWD)-
+  <li>六角西餐廳(RWD)-https://yah5252.github.io/RWDhtml/
       <ol>
         <li>不倚賴 CSS Framework 進行 RWD 客製化</li>
      </ol>
@@ -49,7 +48,8 @@
  <ul>
    <li>Vue - 飯店清單(Vue、component)-https://yah5252.github.io/List-of-hotels/
       <ol>
-        <li>透過Vue指令、Cmponent組件及props整合網頁</li>
+        <li>透過Vue指令、Cmponent組件整合網頁</li>
+        <li>使用Bootstrap進行排版</li>
      </ol>
    </li>
  </ul>
@@ -57,6 +57,7 @@
    <li>颱風災害網(vue)-https://yah5252.github.io/Typhoon-disaster/
       <ol>
         <li>透過Vue實例建立網頁</li>
+         <li>使用 JavaScript 透過 Ajax 取得 Open Data 資料</li>
      </ol>
    </li>
  </ul>
@@ -74,7 +75,7 @@
 
 # 未來計畫
  <ul>
-  <li>習前端框架，如 Vue 或是 React</li>
+  <li>學習前端框架，如 Vue 或是 React</li>
    <li>學習UI/UX</li>
 </ul>
 
