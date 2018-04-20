@@ -4,7 +4,7 @@
    <li>Education： 華梵大學-中國文學學系</li>
    <li>Location： Changhua</li>
    <li>E-Mail：qwer898410@gmail.com</li>
-   <li>Personal Website： https://yah5252.github.io/-Personal-website/</li>
+   <li>Personal Website： https://yah5252.github.io/Personal-website/</li>
  </ul>
 
 # 技能清單
