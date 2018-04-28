@@ -15,7 +15,7 @@
    <li>jQuery 設計簡易網頁動畫效果</li>
    <li>JSON/Ajax 透過 Open Data 串接資料應用</li>
    <li>Vue 框架使用 Vue 指令、Vue-component</li>
-   <li>使用 Bootstrap 快速開發網頁。</
+   <li>使用 Bootstrap 快速開發網頁。</li>
 </ul>
 <h4>後端Node.js</h4>
 <ul>
