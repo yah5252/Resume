@@ -19,7 +19,7 @@
 </ul>
 <h4>後端Node.js</h4>
 <ul>
-  <li>搭配 Express 建立 RESTful API</li>
+   <li>搭配 Express 建立 RESTful API</li>
    <li>串接 Firebase 資料庫</li>
    <li>使用 EJS 建立頁面</li>
 </ul>
