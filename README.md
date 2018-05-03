@@ -42,7 +42,7 @@
  <ul>
    <li>高雄旅遊資訊(JavaScript、Ajax)-https://yah5252.github.io/Tourism-opendata/
      <ol>
-        <li>使用 JavaScript 透過 Ajax 取得 Open Data 資料</li>
+        <li>使用 JavaScript 透過 JSON/Ajax 取得 Open Data 資料</li>
      </ol>
    </li>
  </ul>
